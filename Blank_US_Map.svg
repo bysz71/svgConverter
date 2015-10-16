@@ -13,7 +13,7 @@
 
 .territory
 {
-	opacity:0;
+	<!-- opacity:0; -->
 	fill:#E0E0E0;
 	stroke:#646464;
 	stroke-width:1;
@@ -22,7 +22,7 @@
 
 .territoryborder
 {
-	opacity:0;
+	<!-- opacity:0; -->
 	fill:none;
 	stroke:#A9A9A9;
 	stroke-width:2;
